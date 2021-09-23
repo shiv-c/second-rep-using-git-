@@ -1,4 +1,0 @@
-hey! my first commit and tracking
-here is my second line for commit
-okay
-the third commit line
